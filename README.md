@@ -2,7 +2,7 @@
 
 Demo of an interactive dashboard built with Python, Plotly and Dash. Features include cross-chart interactions on hover, URL routing and multipage app using Single Page App (SPA) design pattern, metric drillthrough, and custom KPI colors based on ranges of calculated values.
 
-### Setup
+### Setup :hammer:
 
 Create a python3 virtual environment and run
 
@@ -10,7 +10,7 @@ Create a python3 virtual environment and run
 $ pip install -r requirements.txt
 ```
 
-### Run application
+### Run application :bar_chart:
 
 ```bash
 $ python index.py
@@ -18,9 +18,11 @@ $ python index.py
 
 The application is now running locally at http://127.0.0.1:8050/
 
-Demo video link: https://youtu.be/kClhG_blQv0
+### Demo :tv:
 
-### Features
+YouTube link: https://youtu.be/kClhG_blQv0
+
+### Features :memo:
 
 ##### Cross-chart hover interactions
 ![cross chart hover interactions](cross_chart_hover_interactions.gif)
