@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints
+*.log
+*.db*
+.project
+maps/
+.~lock*
+misc/
+notebooks/
+original.xlsx
